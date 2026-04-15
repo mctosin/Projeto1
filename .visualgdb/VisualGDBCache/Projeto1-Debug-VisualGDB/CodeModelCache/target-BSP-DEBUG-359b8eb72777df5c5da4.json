@@ -185,23 +185,23 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "C:/zamodzki/repos/Projeto1/Core/Inc"
+					"path" : "C:/Repos/1ELE149_26/Projeto1/Core/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/zamodzki/repos/Projeto1/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "C:/Repos/1ELE149_26/Projeto1/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/zamodzki/repos/Projeto1/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Repos/1ELE149_26/Projeto1/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/zamodzki/repos/Projeto1/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "C:/Repos/1ELE149_26/Projeto1/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/zamodzki/repos/Projeto1/Drivers/CMSIS/Include"
+					"path" : "C:/Repos/1ELE149_26/Projeto1/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -274,23 +274,23 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "C:/zamodzki/repos/Projeto1/Core/Inc"
+					"path" : "C:/Repos/1ELE149_26/Projeto1/Core/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/zamodzki/repos/Projeto1/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "C:/Repos/1ELE149_26/Projeto1/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/zamodzki/repos/Projeto1/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Repos/1ELE149_26/Projeto1/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/zamodzki/repos/Projeto1/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "C:/Repos/1ELE149_26/Projeto1/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/zamodzki/repos/Projeto1/Drivers/CMSIS/Include"
+					"path" : "C:/Repos/1ELE149_26/Projeto1/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "ASM",

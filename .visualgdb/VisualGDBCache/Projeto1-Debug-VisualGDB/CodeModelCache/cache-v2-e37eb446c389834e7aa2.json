@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/zamodzki/repos/Projeto1/STM32F407VGTX_FLASH.ld"
+			"value" : "C:/Repos/1ELE149_26/Projeto1/STM32F407VGTX_FLASH.ld"
 		},
 		{
 			"name" : "BSP_ROOT",
@@ -47,7 +47,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/zamodzki/repos/Projeto1"
+			"value" : "C:/Repos/1ELE149_26/Projeto1"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -243,7 +243,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/zamodzki/repos/Projeto1/build/VisualGDB/Debug"
+			"value" : "c:/Repos/1ELE149_26/Projeto1/build/VisualGDB/Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -291,7 +291,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Rafael Zamodzki/AppData/Local/VisualGDB/CMake/bin/cmake.exe"
+			"value" : "C:/Users/mctos/AppData/Local/VisualGDB/CMake/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -303,7 +303,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Rafael Zamodzki/AppData/Local/VisualGDB/CMake/bin/cpack.exe"
+			"value" : "C:/Users/mctos/AppData/Local/VisualGDB/CMake/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -315,7 +315,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Rafael Zamodzki/AppData/Local/VisualGDB/CMake/bin/ctest.exe"
+			"value" : "C:/Users/mctos/AppData/Local/VisualGDB/CMake/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -735,7 +735,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/zamodzki/repos/Projeto1/build/VisualGDB/Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Repos/1ELE149_26/Projeto1/build/VisualGDB/Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -795,7 +795,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/zamodzki/repos/Projeto1"
+			"value" : "C:/Repos/1ELE149_26/Projeto1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1067,7 +1067,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Rafael Zamodzki/AppData/Local/VisualGDB/CMake/share/cmake-3.31"
+			"value" : "C:/Users/mctos/AppData/Local/VisualGDB/CMake/share/cmake-3.31"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/zamodzki/repos/Projeto1/build/VisualGDB/Debug/toolchain.cmake"
+			"value" : "C:/Repos/1ELE149_26/Projeto1/build/VisualGDB/Debug/toolchain.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1355,7 +1355,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:/Users/Rafael Zamodzki/AppData/Local"
+			"value" : "C:/Users/mctos/AppData/Local"
 		},
 		{
 			"name" : "PLATFORM",
@@ -1379,7 +1379,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/zamodzki/repos/Projeto1/build/VisualGDB/Debug"
+			"value" : "C:/Repos/1ELE149_26/Projeto1/build/VisualGDB/Debug"
 		},
 		{
 			"name" : "Projeto1_BSP_ALIAS",
@@ -1439,7 +1439,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/zamodzki/repos/Projeto1/STM32F407VGTX_FLASH.ld"
+			"value" : "C:/Repos/1ELE149_26/Projeto1/STM32F407VGTX_FLASH.ld"
 		},
 		{
 			"name" : "Projeto1_SOURCE_DIR",
@@ -1451,7 +1451,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/zamodzki/repos/Projeto1"
+			"value" : "C:/Repos/1ELE149_26/Projeto1"
 		},
 		{
 			"name" : "TOOLCHAIN_ROOT",
@@ -1463,7 +1463,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:/SysGCC/arm-eabi"
+			"value" : "c:/sysgcc/arm-eabi"
 		},
 		{
 			"name" : "_BSP_CONFIGURABLE_PROJECT",
@@ -1475,7 +1475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/zamodzki/repos/Projeto1/Projeto1.ioc"
+			"value" : "C:/Repos/1ELE149_26/Projeto1/Projeto1.ioc"
 		},
 		{
 			"name" : "_BSP_CONFIGURATOR_ID",
@@ -1511,7 +1511,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/zamodzki/repos/Projeto1/build/VisualGDB/Debug/BSP.cmake"
+			"value" : "C:/Repos/1ELE149_26/Projeto1/build/VisualGDB/Debug/BSP.cmake"
 		},
 		{
 			"name" : "_BSP_ID",
@@ -1559,7 +1559,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/zamodzki/repos/Projeto1"
+			"value" : "C:/Repos/1ELE149_26/Projeto1"
 		},
 		{
 			"name" : "_BSP_VERSION",

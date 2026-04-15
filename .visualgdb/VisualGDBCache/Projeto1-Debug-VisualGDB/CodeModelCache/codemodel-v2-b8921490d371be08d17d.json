@@ -43,14 +43,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "BSP::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BSP-DEBUG-b9030c181c8753f0d114.json",
+					"jsonFile" : "target-BSP-DEBUG-359b8eb72777df5c5da4.json",
 					"name" : "BSP",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "Projeto1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Projeto1-DEBUG-e479408b80dcf602dc64.json",
+					"jsonFile" : "target-Projeto1-DEBUG-a6cb3db82dd4c4902e20.json",
 					"name" : "Projeto1",
 					"projectIndex" : 0
 				},
@@ -67,8 +67,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/zamodzki/repos/Projeto1/build/VisualGDB/Debug",
-		"source" : "C:/zamodzki/repos/Projeto1"
+		"build" : "C:/Repos/1ELE149_26/Projeto1/build/VisualGDB/Debug",
+		"source" : "C:/Repos/1ELE149_26/Projeto1"
 	},
 	"version" : 
 	{
